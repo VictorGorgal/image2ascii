@@ -3,7 +3,7 @@ Algoritmo usado para transformar imagem em uma arte ASCII.
 
 Este arquivo faz parte de um projeto maior (BOT).
 
-Quando rodado por conta prórpia, ele converte uma imagem de um link e converte para ascii no terminal, pode-se usar o link de sugestao para o teste.
+Quando rodado por conta prórpia, ele baixa uma imagem de um link e converte para ascii no terminal, pode ser usado o link de sugestão para o teste.
 
 Entrada:
 
