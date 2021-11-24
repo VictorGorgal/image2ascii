@@ -31,6 +31,4 @@ if __name__ == '__main__':
         if pic.ok:
             img = cv2.imdecode(frombuffer(pic.content, uint8), -1)
 
-    text = img2ascii(img)
-    for x in text.split('\n'):
-        print(x)
+    print(img2ascii(img))
