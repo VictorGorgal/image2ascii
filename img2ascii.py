@@ -10,7 +10,7 @@ def img2ascii(img):
     img = cv2.resize(img, (100, 100))  # muda o tamanho da imagem para 100x100px
 
     new = ''
-    for x in range(0, 100, 2):  # faz a media do 2 pixeis e substituindo por um dos caracteres de luminozidade
+    for x in range(0, 100, 2):  # faz a media dos 2 pixeis e substituindo por um dos caracteres de luminozidade
         x1 = img[x]
         x2 = img[x+1]
         for y in range(100):
