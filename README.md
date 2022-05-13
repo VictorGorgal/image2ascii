@@ -1,5 +1,5 @@
 # Image to ASCII
-Algorithm used to transform an image into ASCII artwork.
+Algorithm used to transform an image into ASCII art.
 
 ### This file is part of the "BOT" project
 
